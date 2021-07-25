@@ -1,0 +1,2 @@
+(self["webpackChunkbasic_setting_cli5"]=self["webpackChunkbasic_setting_cli5"]||[]).push([[443],{211:function(n,t,s){"use strict";s.r(t),s.d(t,{default:function(){return r}});var c=s(252);const e={class:"about"},i=(0,c.Wm)("h1",null,"This is an about page",-1);function u(n,t){return(0,c.wg)(),(0,c.j4)("div",e,[i])}const a={};a.render=u;var r=a}}]);
+//# sourceMappingURL=about.41dfdb14.js.map
